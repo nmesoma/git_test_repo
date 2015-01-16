@@ -1,0 +1,2 @@
+#what is Git
+git is a version control system that allows us to keep track of our work.
